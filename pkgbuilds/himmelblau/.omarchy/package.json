@@ -1,5 +1,6 @@
 {
   "source": "local",
+  "sync": false,
   "upstream": {
     "watch": {
       "git_tags": "https://github.com/himmelblau-idm/himmelblau.git",
